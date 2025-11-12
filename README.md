@@ -12,7 +12,7 @@ O sistema busca a rota mais curta possível entre um conjunto de cidades, exibin
 - Bibliotecas:
   pip install numpy matplotlib
 
-### ▶Execução
+### Execução
   python main.py
 
 ---
@@ -130,3 +130,4 @@ A solução equilibra exploração e elitismo, demonstrando na prática como té
 
 Desenvolvido por **[Nilson Andrade Neto | Kauan Adami]** — Ciência da Computação — UNIVALI  
 2025
+
